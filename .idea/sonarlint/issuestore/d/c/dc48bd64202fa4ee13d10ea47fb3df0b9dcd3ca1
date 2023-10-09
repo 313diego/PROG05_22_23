@@ -1,0 +1,101 @@
+
+`	java:S112v"FDefine and throw a dedicated exception instead of using a generic one.(üĞúöÿÿÿÿÿ
+\	java:S112Œ"FDefine and throw a dedicated exception instead of using a generic one.(©‰¨
+a	java:S112¯"FDefine and throw a dedicated exception instead of using a generic one.(•ü´•ÿÿÿÿÿ
+\	java:S112Ú"FDefine and throw a dedicated exception instead of using a generic one.(Ù®“«
+a	java:S112ò"FDefine and throw a dedicated exception instead of using a generic one.(¶­¹õøÿÿÿÿ
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ğ…Ú«
+\	java:S112¶"FDefine and throw a dedicated exception instead of using a generic one.(Ğ…Ú«
+\	java:S112Õ"FDefine and throw a dedicated exception instead of using a generic one.(ìÎŞ
+\	java:S112‚"FDefine and throw a dedicated exception instead of using a generic one.(Ğ…Ú«
+\	java:S112›"FDefine and throw a dedicated exception instead of using a generic one.(é›Ú¦
+\	java:S112´"FDefine and throw a dedicated exception instead of using a generic one.(é›Ú¦
+\	java:S112Í"FDefine and throw a dedicated exception instead of using a generic one.(Ó”ù¯
+i
+java:S1192"RDefine a constant instead of duplicating this literal "
+No tiene creado " 3 times.(Ğ…Ú«
+o
+java:S1192Ÿ"SDefine a constant instead of duplicating this literal "ningÃºn vehÃ­culo
+" 3 times.(àã„ùÿÿÿÿ
+g
+java:S1192Ö"KDefine a constant instead of duplicating this literal "vehÃ­culo
+" 3 times.(à­õ™üÿÿÿÿ
+P
+java:S1141]"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ààö¯
+h
+java:S3776("RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(öÈÛì
+W
+java:S16590"ADeclare "kmIn" and all following declarations on a separate line.(Æ‚–¤
+c
+java:S16591"HDeclare "matriculaIn" and all following declarations on a separate line.(×£›Ìÿÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(Şœø¢ûÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(¯ßìÄşÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(Òá¨à
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(÷ŸÏ×ÿÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(Â´·Äøÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(Ø¶•
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(Ñç¢ 
+M	java:S106E"9Replace this use of System.out or System.err by a logger.(ŞÊ.
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(˜‘É³
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(ğ“ƒƒøÿÿÿÿ
+7	java:S131P""Add a default case to this switch.(°€àâ
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(Ï£æ
+M	java:S106a"9Replace this use of System.out or System.err by a logger.(è‹
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(ôòŒ
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(Ü™ƒß
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(“ß»Ôøÿÿÿÿ
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ŞçÛÑúÿÿÿÿ
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(¦¸‚øÿÿÿÿ
+I
+java:S6126Œ"2Replace this String concatenation with Text block.(©‰¨
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(ÉíÇ¬
+O	java:S106"9Replace this use of System.out or System.err by a logger.(¹èƒ
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(ÑßÚßúÿÿÿÿ
+N	java:S106¢"9Replace this use of System.out or System.err by a logger.(ÌÖâm
+O	java:S106¤"9Replace this use of System.out or System.err by a logger.(Š¶Îá
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(å–´
+O	java:S106½"9Replace this use of System.out or System.err by a logger.(ĞÊÄ€
+T	java:S106À"9Replace this use of System.out or System.err by a logger.(œ³ıÿÿÿÿ
+O	java:S106Â"9Replace this use of System.out or System.err by a logger.(ÄÚ¢
+O	java:S106Å"9Replace this use of System.out or System.err by a logger.(ëá…Å
+O	java:S106Ï"9Replace this use of System.out or System.err by a logger.(¶„¹Ä
+T	java:S106Ö"9Replace this use of System.out or System.err by a logger.(ä€¾”ûÿÿÿÿ
+T	java:S106è"9Replace this use of System.out or System.err by a logger.(×™ÒÈıÿÿÿÿ
+N	java:S106î"9Replace this use of System.out or System.err by a logger.(Â£µ
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(Ïªµõ
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(‘öğ
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(•ŠØøÿÿÿÿ
+I
+java:S6126"2Replace this String concatenation with Text block.(Ğ…Ú«
+O	java:S106£"9Replace this use of System.out or System.err by a logger.(˜Š¹¤
+O	java:S106²"9Replace this use of System.out or System.err by a logger.(öÃøê
+I
+java:S6126¶"2Replace this String concatenation with Text block.(Ğ…Ú«
+O	java:S106»"9Replace this use of System.out or System.err by a logger.(ÄÊƒ¬
+T	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(õÂŒêúÿÿÿÿ
+T	java:S106Ú"9Replace this use of System.out or System.err by a logger.(¯·³úÿÿÿÿ
+T	java:S106ß"9Replace this use of System.out or System.err by a logger.(Ö†œÿÿÿÿÿ
+T	java:S106ä"9Replace this use of System.out or System.err by a logger.(—¨àıÿÿÿÿ
+N
+java:S6126ä"2Replace this String concatenation with Text block.(—¨àıÿÿÿÿ
+T	java:S106ş"9Replace this use of System.out or System.err by a logger.(ãŸ¡ºşÿÿÿÿ
+I
+java:S6126‚"2Replace this String concatenation with Text block.(Ğ…Ú«
+N	java:S106‡"9Replace this use of System.out or System.err by a logger.(ØËË
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(»—â³ıÿÿÿÿ
+I
+java:S6126›"2Replace this String concatenation with Text block.(é›Ú¦
+O	java:S106 "9Replace this use of System.out or System.err by a logger.(ıéÉ¦
+O	java:S106°"9Replace this use of System.out or System.err by a logger.(Ì³Üæ
+I
+java:S6126´"2Replace this String concatenation with Text block.(é›Ú¦
+O	java:S106¹"9Replace this use of System.out or System.err by a logger.(¨…ù
+O	java:S106É"9Replace this use of System.out or System.err by a logger.(¼ëÃ•
+I
+java:S6126Í"2Replace this String concatenation with Text block.(Ó”ù¯
+T	java:S106Ò"9Replace this use of System.out or System.err by a logger.(’’¡øÿÿÿÿ
+T	java:S106à"9Replace this use of System.out or System.err by a logger.(¾Ò¶Ôÿÿÿÿÿ
+T	java:S106ë"9Replace this use of System.out or System.err by a logger.(°Œòøÿÿÿÿ
+=
+java:S1125ï"'Remove the unnecessary boolean literal.(Ğ„€z
